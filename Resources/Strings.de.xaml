@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="LoadData">Daten Laden</sys:String>
+    <sys:String x:Key="AddTask">Aufgabe Hinzufügen</sys:String>
+    <sys:String x:Key="UpdateTask">Aufgabe Aktualisieren</sys:String>
+    <sys:String x:Key="DeleteTask">Aufgabe Löschen</sys:String>
+    <sys:String x:Key="SaveData">Daten Speichern</sys:String>
+    <sys:String x:Key="TaskName">Aufgabenname</sys:String>
+    <sys:String x:Key="Description">Beschreibung</sys:String>
+    <sys:String x:Key="Priority">Priorität</sys:String>
+    <sys:String x:Key="Low">Niedrig</sys:String>
+    <sys:String x:Key="Medium">Mittel</sys:String>
+    <sys:String x:Key="High">Hoch</sys:String>
+</ResourceDictionary>
